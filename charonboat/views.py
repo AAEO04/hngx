@@ -15,8 +15,8 @@ def get_info(request):
     # alternatively, you can use datetime.datetime.now(datetime.timezone.utc).isoformat()
 
     # get the github file url and repo url
-    github_file_url = "https://github.com/AAEO04/repo/blob/main/views.py"
-    github_repo_url = "https://github.com/AAEO04/repo"
+    github_file_url = "https://github.com/AAEO04/hngx/blob/main/views.py"
+    github_repo_url = "https://github.com/AAEO04/hngx"
 
     # create a dictionary with the required information
     response_data = {
